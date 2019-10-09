@@ -6,7 +6,7 @@
 **Flujo principal:**
 1. El secretario desea incorporar al sistema un nuevo paciente
 2. El secretario abre el cuadro de diálogo de asignacion en el menú principal
-3. El secretario introduice los datos del paciente
+3. El secretario introduce los datos del paciente
 4. El sistema muestra por pantalla el paciente incorporado
 
 **Flujos alternativos:**
