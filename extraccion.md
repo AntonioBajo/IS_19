@@ -3,10 +3,9 @@
 
   - Clínica
   - Programadores
- 
-
+  
 #### Datos que gestiona el sistema:
-  - Paciente
+  - Paciente:
     * Nombre
     * Apellidos
     * Teléfono
@@ -15,7 +14,8 @@
     * Historial médico
     * Citas
     * Tratamiento
-#### Requisitos funcionales (ordenados por prioridad)
+
+#### Requisitos funcionales (ordenados por prioridad):
  1. Añadir paciente al sistema
  2. Editar paciente 
  3. Consultar paciente
@@ -24,7 +24,8 @@
  6. Modificar cita
  7. Cancelar cita
  6. Mostrar citas disponibles
- #### Requisitos no funcionales
+ 
+ #### Requisitos no funcionales:
 - Sistema operativo Linux
 - Interfaz CLI
 - Lenguaje de implementación: C++
