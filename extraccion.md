@@ -28,4 +28,4 @@
 - Sistema operativo Linux
 - Interfaz CLI
 - Lenguaje de implementación: C++
-- Máximo 10 GB de almacenamiento
+- Máximo 10 GB de almacenamiento 
