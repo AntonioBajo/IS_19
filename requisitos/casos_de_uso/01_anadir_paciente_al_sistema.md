@@ -11,4 +11,4 @@
 
 **Flujos alternativos:**
 
-3.a. Si el sistema detecta algún fallo a la horad e incoporar un dato, mostrará ERROR por pantalla
+3.a. Si el sistema detecta algún fallo a la hora de incoporar un dato, mostrará ERROR por pantalla
