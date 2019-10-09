@@ -6,7 +6,7 @@
 **Flujo principal:**
 1. El secretario desea modificar la información de un paciente
 2. El secretario abre el cuadro de diálogo de asignacion en el menú principal
-3. El secretario introduce el nombre y apellido del paciente al que le quiere realizar los cambios previstos
+3. El secretario introduce el nombre y apellidos del paciente al que le quiere realizar los cambios previstos
 4. El sistema incorpora los datos y muestra por pantalla el paciente con los cambios ya realizados
 
 **Flujos alternativos:**
