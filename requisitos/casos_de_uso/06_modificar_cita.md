@@ -12,4 +12,4 @@
 
 **Flujos alternativos:**
 
-3.a. Si en el dia establecido por el secretario no hay hueco, se mostrará un mensaje de ERROR 
+3.a. Si en el dia establecido por el secretario no hay hueco, se mostrará un mensaje de ERROR y deberá elegir otro dia
