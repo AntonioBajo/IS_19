@@ -1,5 +1,6 @@
 ## Añadir paciente al sistema
 **ID:** 01 **Descripción:** Se introduce los datos requeridos del usuario a añadir y el sistema los incorpora.
+
 **Actores principales:** Secretario **Actores secundarios:** Paciente
 
 **Flujo principal:**
@@ -9,4 +10,5 @@
 4. El sistema muestra por pantalla el paciente incorporado
 
 **Flujos alternativos:**
+
 3.a. Si el sistema detecta algún fallo a la horad e incoporar un dato, mostrará ERROR por pantalla
