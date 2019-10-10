@@ -11,4 +11,4 @@ El *secretario* quiere *añadir un nuevo paciente* al *sistema*
 
 * Se debe poder añadir cualquier paciente
 * Se debe completar campo a campo
-* Se debe mostrar el paciente con todos los datos añadidos una vez finalizado
+* Se debe mostrar el paciente con todos los datos añadidos una vez finalizado el proceso
