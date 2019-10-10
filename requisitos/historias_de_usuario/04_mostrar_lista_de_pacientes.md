@@ -1,10 +1,6 @@
 **ID**: 04
 **Nombre**: Mostrar lista de pacientes
 
-**Prioridad**: (de 1 a 10): -
-**Puntos estimado**: -
-**Iteración**: -
-
 **Responsable**: Secretario
 
 #### Descripción:
