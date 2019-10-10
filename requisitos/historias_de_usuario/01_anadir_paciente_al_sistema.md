@@ -1,7 +1,5 @@
 **ID**: 01 **Nombre**: Añadir paciente al sistema 
 
-**Prioridad** (de 1 a 10): - **Puntos estimado**: - **Iteración**: -
-
 **Responsable**: Secretario
 
 #### Descripción
