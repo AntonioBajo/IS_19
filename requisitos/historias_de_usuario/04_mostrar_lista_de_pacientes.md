@@ -9,7 +9,7 @@
 
 #### Descripción:
 
-El *secretario* quiere *localizar el nombre del paciente* para *consultar su información y las operaciones posibles sobre el mismo*
+El *secretario* quiere *localizar el nombre del paciente* para *consultar su información y las operaciones posibles sobre el mismo*.
 
 #### Validación:
 
