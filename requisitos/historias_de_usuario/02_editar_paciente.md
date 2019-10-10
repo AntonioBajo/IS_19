@@ -1,6 +1,4 @@
-**ID**:02 **Nombre**: Editar paciente
-
-**Prioridad** (de 1 a 10): - **Puntos estimado**: - **Iteración**: -
+**ID**: 02 **Nombre**: Editar paciente
 
 **Responsable**: Secretario
 
