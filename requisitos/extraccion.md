@@ -14,6 +14,7 @@
     * Historial médico
     * Citas
     * Tratamiento
+    * Clinica privada o por libre
 
 #### Requisitos funcionales (ordenados por prioridad):
  1. Añadir paciente al sistema
