@@ -1,10 +1,6 @@
 **ID**: 05
 **Nombre**: Asignar cita
 
-**Prioridad** (de 1 a 10): -
-**Puntos estimado**: -
-**Iteración**: -
-
 **Responsable**: Secretario
 
 #### Descripción
