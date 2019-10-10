@@ -11,4 +11,4 @@
 
 **Flujos alternativos:**
 
-3.a. Si el sistema detecta algún fallo tras haberle introducido por teclado el nombre y apellidos del paciente a modificar mostrará ERROR por pantalla
+3.a. Si el sistema detecta algún fallo tras haberle introducido por teclado el nombre y apellidos del paciente a modificar mostrará ERROR por pantalla.
