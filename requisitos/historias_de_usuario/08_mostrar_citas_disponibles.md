@@ -7,7 +7,7 @@
 
 El *secretario* desea *visualizar todas las citas disponibles*
 
-#### Validación:
+#### Validación: 
 
 * Se debe poder localizar visualmente las citas en el dia elegido
 * Los resultados de la búsqueda pueden mostrar cero o más resultados
