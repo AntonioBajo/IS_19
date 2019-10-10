@@ -1,10 +1,6 @@
 **ID**: 08
 **Nombre**: Mostrar citas disponibles
 
-**Prioridad**: (de 1 a 10): -
-**Puntos estimado**: -
-**Iteración**: -
-
 **Responsable**: Secretario
 
 #### Descripción:
