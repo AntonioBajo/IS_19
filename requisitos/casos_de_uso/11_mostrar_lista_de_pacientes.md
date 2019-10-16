@@ -9,5 +9,7 @@
 2. El secretario puede filtrar los pacientes por orden alfabético o por edad.
 
 **Flujos alternativos:**
+
 2.a. Se pueden filtrar de orden ascendente o descendente.
+
 2.b. Si el secretario filtra por una letra o una edad sobre la que no hay ningún paciente, se muestra mensaje de error.
