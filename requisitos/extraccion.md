@@ -23,13 +23,15 @@
  4. Borrar paciente
  5. Mostrar historial médico del paciente
  6. Modificar historial médico del paciente
- 7. Mostrar tratamiento del paciente
- 8. Modificar tratamiento del paciente
- 9. Mostrar lista de pacientes
- 10. Asignar cita
- 11. Modificar cita
- 12. Cancelar cita
- 13. Mostrar citas disponibles
+ 7. Borrar historial médico del paciente
+ 8. Mostrar tratamiento del paciente
+ 9. Modificar tratamiento del paciente
+ 10. Borrar tratamiento del paciente
+ 11. Mostrar lista de pacientes
+ 12. Asignar cita
+ 13. Modificar cita
+ 14. Cancelar cita
+ 15. Mostrar citas disponibles
  
  #### Requisitos no funcionales:
 - Sistema operativo Linux
