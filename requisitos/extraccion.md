@@ -2,7 +2,7 @@
 #### Partes interesadas:
 
   - Clínica
-  - Programadores
+  - Desarrolladores
   
 #### Datos que gestiona el sistema:
   - Paciente:
@@ -11,23 +11,30 @@
     * Teléfono
     * Dirección
     * Fecha de nacimiento
-    * Historial médico
-    * Citas
-    * Tratamiento
-    * Clinica privada o por libre
+    * Seguro médico
+   - Citas
+   - Historial médico
+   - Tratamiento
 
 #### Requisitos funcionales (ordenados por prioridad):
  1. Añadir paciente al sistema
  2. Editar paciente 
  3. Consultar paciente
- 4. Mostrar lista de pacientes
- 5. Asignar cita
- 6. Modificar cita
- 7. Cancelar cita
- 6. Mostrar citas disponibles
+ 4. Borrar paciente
+ 5. Mostrar historial médico del paciente
+ 6. Modificar historial médico del paciente
+ 7. Mostrar tratamiento del paciente
+ 8. Modificar tratamiento del paciente
+ 9. Mostrar lista de pacientes
+ 10. Asignar cita
+ 11. Modificar cita
+ 12. Cancelar cita
+ 13. Mostrar citas disponibles
  
  #### Requisitos no funcionales:
 - Sistema operativo Linux
 - Interfaz CLI
 - Lenguaje de implementación: C++
 - Máximo 10 GB de almacenamiento
+- Evitar que se borre un historial médico
+- Confirmar antes del borrado
