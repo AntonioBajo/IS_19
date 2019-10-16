@@ -30,7 +30,7 @@
  11. Mostrar lista de pacientes
  12. Asignar cita
  13. Modificar cita
- 14. Cancelar cita
+ 14. Anular cita
  15. Mostrar citas disponibles
  
  #### Requisitos no funcionales:
