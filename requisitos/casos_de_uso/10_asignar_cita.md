@@ -1,6 +1,6 @@
 # Asignar cita
 
-**ID:** 05 **Descripcion:** Se puede asignar cita a un paciente.
+**ID:** 10 **Descripcion:** Se puede asignar cita a un paciente.
 
 **Actores principales:** Secretario **Actores secundarios:** Pacientes
 
