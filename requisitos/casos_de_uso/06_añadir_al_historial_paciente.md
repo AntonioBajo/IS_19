@@ -13,4 +13,5 @@
 **Flujos alternativos:**
 
 3.a. Si el sistema detecta algún fallo tras haberle introducido por teclado el nombre y apellido del paciente mostrará ERROR por pantalla
+
 5.a. Si el secretario se equivoca al poner los datos del paciente y quiere volver atrás solo tiene que darle a cancelar
