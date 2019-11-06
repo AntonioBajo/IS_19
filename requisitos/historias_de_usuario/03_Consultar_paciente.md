@@ -8,9 +8,9 @@ Como *secretario* quiero *localizar un paciente en el sistema* para *consultar s
 
 #### Validación
 
-* Se debe poder localizar cualquier paciente
-* Se deben utilizar el nombre y los apellidos
-* El resultado de la búsqueda debe mostrar por pantalla los datos del paciente introducido
-* El sistema debe mostrar todos los datos almacenados del paciente
+* Se debe poder localizar cualquier paciente.
+* Se deben utilizar el nombre y los apellidos.
+* El resultado de la búsqueda debe mostrar por pantalla los datos del paciente introducido.
+* El sistema debe mostrar todos los datos almacenados del paciente.
 
 
