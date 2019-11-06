@@ -1,10 +1,10 @@
 **ID**: 02 **Nombre**: Editar paciente
 
-**Responsable**: Secretario
+**Responsable**: Desarrollador
 
 #### Descripción
 
-El *secretario* quiere *localizar al paciente almacenado en el sistema* cuyo nombre y apellidos coinciden con los que ha introducido por teclado para poder *modificar sus datos*
+Como *secretario* quiero *localizar a un paciente almacenado en el sistema* para *modificar sus datos*
 
 #### Validación
 
