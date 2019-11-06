@@ -1,11 +1,11 @@
-**ID**: 12
+**ID**: 11
 **Nombre**: Asignar cita
 
-**Responsable**: Secretario
+**Responsable**: Desarrollador
 
 #### Descripción
 
-El *secretario* tiene que *asignar una cita para el paciente*
+Como *secretario* quiero *asignar una cita* para *el paciente*
 
 #### Validación
 
