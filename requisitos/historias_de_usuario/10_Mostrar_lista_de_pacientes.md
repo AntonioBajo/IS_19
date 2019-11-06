@@ -1,11 +1,11 @@
 **ID**: 10
 **Nombre**: Mostrar lista de pacientes
 
-**Responsable**: Secretario
+**Responsable**: Desarrollador
 
 #### Descripción:
 
-El *secretario* quiere *localizar el nombre del paciente* para *consultar su información y las operaciones posibles sobre el mismo*.
+Como *secretario* quiero *localizar el nombre del paciente* para *consultar su información y las operaciones posibles sobre el mismo*.
 
 #### Validación:
 
