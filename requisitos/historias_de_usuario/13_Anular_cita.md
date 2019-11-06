@@ -1,9 +1,9 @@
-**ID:** 14 **Nombre:** Anular cita
+**ID:** 13 **Nombre:** Anular cita
 
 **Responsable:** Secretario
 
 **Descripcion:**
-Como *secretario* quiero anular la cita de un paciente
+Como *secretario* quiero *anular la cita de un paciente*
 
 **Validacion:**
 
