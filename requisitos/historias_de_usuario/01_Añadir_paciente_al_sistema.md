@@ -1,6 +1,6 @@
 **ID**: 01 **Nombre**: Añadir paciente al sistema 
 
-**Responsable**: Francisco Almenara
+**Responsable**: Desarrollador
 
 #### Descripción
 
