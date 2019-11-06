@@ -1,11 +1,11 @@
-**ID**: 15
+**ID**: 14
 **Nombre**: Mostrar citas disponibles
 
-**Responsable**: Secretario
+**Responsable**: Desarrollador
 
 #### Descripción:
 
-El *secretario* desea *visualizar todas las citas disponibles*
+Como *secretario* quiero *visualizar todas las citas disponibles*
 
 #### Validación: 
 
