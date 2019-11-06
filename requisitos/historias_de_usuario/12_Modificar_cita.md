@@ -1,6 +1,6 @@
 **ID:** 12 **Nombre:** Modificar cita
 
-**Responsable:** Secretario
+**Responsable:** Desarrollador
 
 **Descripcion:**
 Como *secretario* quiero *modificar la cita de un paciente* para cambiarla a otra hora o día*
