@@ -1,6 +1,6 @@
 # Anula cita del paciente
 
-**ID:** 14 **Descripcion:** Se introduce el dia de la cita que se quiera anular y se queda el hueco libre.
+**ID:** 13 **Descripcion:** Se introduce el dia de la cita que se quiera anular y se queda el hueco libre.
 
 **Actores principales:** Secretario **Actores secundarios:** Paciente
 
