@@ -1,4 +1,4 @@
-## Añadir al historial médico del paciente
+## Añadir entrada al historial médico del paciente
 **ID:** 06 **Descripción:** Se introduce el nombre y apellido del usuario al que se desea añadir alguna entrada y el sistema permite modificar su historial médico
 
 **Actores principales:** Secretario **Actores secundarios:** Paciente
