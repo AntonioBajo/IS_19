@@ -11,4 +11,4 @@
 
 **Flujos alternativos:**
 
-4.a. El sistema muestra un cuadro de diálogo para confirmar el borrado para que no se eliminen los datos por error
+4.a. El sistema muestra un cuadro de diálogo para confirmar el borrado para que no se eliminen los datos por error.
