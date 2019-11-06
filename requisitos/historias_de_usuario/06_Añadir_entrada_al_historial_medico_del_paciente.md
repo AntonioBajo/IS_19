@@ -12,3 +12,4 @@ Como *secretario* quiero *localizar un paciente en el sistema* para *añadir un 
 * Se deben utilizar el nombre y los apellidos
 * El resultado de la búsqueda debe mostrar por pantalla los datos relacionados con el historial médico del paciente introducido
 * Se debe poder introducir un nuevo campo al historial médico del paciente
+* Se debe mostrar por pantalla el paciente con los nuevos datos introducidos
