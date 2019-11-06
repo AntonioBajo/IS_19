@@ -1,10 +1,10 @@
 **ID**: 01 **Nombre**: Añadir paciente al sistema 
 
-**Responsable**: Secretario
+**Responsable**: Francisco Almenara
 
 #### Descripción
 
-El *secretario* quiere *añadir un nuevo paciente* al *sistema*
+Como *secretario* quiero *añadir un nuevo paciente* para *incluirlo en el sistema*
 
 #### Validación
 
