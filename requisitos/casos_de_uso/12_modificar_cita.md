@@ -1,6 +1,6 @@
 # Modificar cita del paciente
 
-**ID:** 13 **Descripcion:** Se introduce el dia de la cita que se quiera modificar y se cambia a otro dia.
+**ID:** 12 **Descripcion:** Se introduce el dia de la cita que se quiera modificar y se cambia a otro dia.
 
 **Actores principales:** Secretario **Actores secundarios:** Paciente
 
