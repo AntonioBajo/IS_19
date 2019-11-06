@@ -1,5 +1,5 @@
-## Editar paciente
-**ID:** 02 **Descripción:** Se introduce el nombre y los apellidos del paciente que se desea modificar y se procede a editar los datos.
+## Editar datos personales del paciente
+**ID:** 02 **Descripción:** Se introduce el nombre y los apellidos del paciente que se desea modificar y se procede a editar los datos personales.
 
 **Actores principales:** Secretario **Actores secundarios:** Paciente
 
