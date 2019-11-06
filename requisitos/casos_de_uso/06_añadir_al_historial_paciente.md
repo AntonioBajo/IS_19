@@ -1,10 +1,10 @@
-## Modificar historial médico del paciente
-**ID:** 06 **Descripción:** Se introduce el nombre y apellido del usuario que se desea consultar y el sistema permite modificar su historial médico
+## Añadir al historial médico del paciente
+**ID:** 06 **Descripción:** Se introduce el nombre y apellido del usuario al que se desea añadir alguna entrada y el sistema permite modificar su historial médico
 
 **Actores principales:** Secretario **Actores secundarios:** Paciente
 
 **Flujo principal:**
-1. El secretario desea modificar el historial de un paciente almacenado en el sistema
+1. El secretario desea añadir entrada al historial de un paciente almacenado en el sistema
 2. El secretario abre el cuadro de diálogo de asignacion en el menú principal
 3. El secretario introduce el nombre y apellidos del paciente
 4. El sistema muestra por pantalla el historial del paciente buscado
