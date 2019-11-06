@@ -1,6 +1,6 @@
 # Mostrar lista de pacientes
 
-**ID:** 11 **Descripcion:** El programa mostrará una lista de todos los pacientes de la clínica.
+**ID:** 10 **Descripcion:** El programa mostrará una lista de todos los pacientes de la clínica.
 
 **Actores principales:** Secretario **Actores secundarios:** Pacientes 
 
