@@ -1,8 +1,11 @@
 ## DESCRIPCIÓN DE CLASES
 
+
 ~~~
 Especificación de las clases utilizadas por los desarrolladores en el programa
 ~~~
+
+
 
 |CLASE: Paciente|                         |                        |        
 |:--------------|:-----------------------:|-----------------------:|
@@ -22,6 +25,7 @@ Especificación de las clases utilizadas por los desarrolladores en el programa
 | Borrar paciente | *Función que elimina del sistema los datos personales guardados del paciente introducido*|
 | Mostrar lista de pacientes | *Función que muestra por pantalla todos los pacientes que el sistema almacena con sus correspondientes datos personales*|
 
+---
 
 |CLASE: Citas|                         |                        |        
 |:--------------|:-----------------------:|-----------------------:|
@@ -37,3 +41,34 @@ Especificación de las clases utilizadas por los desarrolladores en el programa
 | Modificar cita | *Función que modifica la cita asignada al paciente*|
 | Anular cita | *Función que elimina la cita registrada para el paciente*|
 | Mostrar citas disponibles | *Función que muestra por pantalla la agenda disponible para asignar una cita al paciente*|
+
+---
+
+|CLASE: Tratamiento|                         |                        |        
+|:--------------|:-----------------------:|-----------------------:|
+| Esta clase contendrá las funciones relacionadas con el tratamiento del paciente. Entre ellas se encuentran la función de mostrar tratamientos, anular tratamiento...|
+||
+| **DATOS** |   |   |
+| Paciente | clase | *Datos personales del paciente almacenados por el sistema* |
+| Dolencia | cadena | *Diagnóstico del paciente* |
+| Medicamento | cadena | *Fármaco asignado para el tratamiento de la dolencia*|
+||
+| **MÉTODOS** |      
+| Mostrar tratamientos del paciente | *Función que muestra por pantalla los tratamientos que han sido asignados al paciente en cuestión históricamente*|
+| Modificar tratamiento del paciente en curso | *Función que modifica el tratamiento a seguir del paciente en cuestión*|
+| Borrar tratamiento del paciente en curso | *Función que elimina el tratamiento a seguir por el paciente en cuestión*|
+
+---
+
+|CLASE: Historial|                         |                        |        
+|:--------------|:-----------------------:|-----------------------:|
+| Esta clase contendrá las funciones relacionadas con el historial del paciente. Entre ellas se encuentran la función de mostrar el historial médico del paciente y la función de añadir una entrada al historial médico del paciente|
+||
+| **DATOS** |   |   |
+| Paciente | clase | *Datos personales del paciente almacenados por el sistema* |
+| Citas | clase | *Fechas en las que el paciente ha acudido a consulta* |
+| Tratamientos | clase | *Tratamientos que han sido asignados al paciente*|
+||
+| **MÉTODOS** |      
+| Mostrar historial médico del paciente | *Función que muestra por pantalla el historial del paciente*|
+| Añadir entrada al historial médico del paciente  | *Función que añade al sistema una nueva entrada al historial del paciente en cuestión*|
