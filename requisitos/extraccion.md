@@ -12,7 +12,7 @@
     * Dirección
     * Fecha de nacimiento
     * Seguro médico
-   - Citas
+   - Citas:
      * Fecha
      * Hora
    - Historial médico
