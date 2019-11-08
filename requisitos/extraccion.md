@@ -13,9 +13,8 @@
     * Fecha de nacimiento
     * Seguro médico
    - Citas
-   - Paciente:
-    * Fecha
-    * Hora
+     * Fecha
+     * Hora
    - Historial médico
    - Tratamiento
 
