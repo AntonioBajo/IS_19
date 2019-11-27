@@ -15,3 +15,5 @@
 **Flujos alternativos:**
 
 3.a. Si el sistema detecta algún fallo tras haberle introducido por teclado el DNI del paciente mostrará ERROR por pantalla
+
+5.a. Si el tratamiento no está en curso, no se puede modificar, por lo que el sistema mostrará ERROR por pantalla.
