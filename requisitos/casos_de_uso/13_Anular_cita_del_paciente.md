@@ -1,4 +1,4 @@
-# Anula cita del paciente
+# Anular cita del paciente
 
 **ID:** 13 **Descripcion:** Se anula la cita asignada a un paciente.
 
