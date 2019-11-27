@@ -8,6 +8,7 @@
   - Paciente:
     * Nombre
     * Apellidos
+    * DNI
     * Teléfono
     * Dirección
     * Fecha de nacimiento
