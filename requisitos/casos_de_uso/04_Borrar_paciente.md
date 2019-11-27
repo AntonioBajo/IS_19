@@ -10,5 +10,6 @@
 4. El secretario borra todos los datos del paciente.
 
 **Flujos alternativos:**
-3.a. Si el sistema detecta algún fallo tras haberle introducido por teclado el DNI del paciente a modificar mostrará ERROR por pantalla.
+
+3.a. Si el sistema detecta algún fallo tras haberle introducido por teclado el DNI del paciente a modificar mostrará ERROR por pantalla.                        
 4.a. El sistema muestra un cuadro de diálogo para confirmar el borrado, para que no se eliminen los datos por error.
