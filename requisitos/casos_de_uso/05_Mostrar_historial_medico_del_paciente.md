@@ -1,5 +1,5 @@
 ## Mostrar historial médico del paciente
-**ID:** 05 **Descripción:** Se introduce el DNI del paciente del cual se quiere ver su historial y se muestra por pantalla.
+**ID:** 05 **Descripción:** Se introduce el DNI del paciente del que se quiere ver el historial y se muestra por pantalla.
 
 **Actores principales:** Secretario **Actores secundarios:** Paciente
 
