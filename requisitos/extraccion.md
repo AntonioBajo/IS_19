@@ -13,9 +13,11 @@
     * Dirección
     * Fecha de nacimiento
     * Seguro médico
+    
    - Citas:
      * Fecha
      * Hora
+     
    - Historial médico
    - Tratamiento
 
