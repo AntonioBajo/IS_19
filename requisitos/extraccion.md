@@ -19,7 +19,8 @@
      * Hora
      
    - Historial médico
-   - Tratamiento
+   - Tratamiento:
+     * En curso
 
 #### Requisitos funcionales (ordenados por prioridad):
  1. Añadir paciente al sistema
