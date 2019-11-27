@@ -11,4 +11,5 @@
 4. El sistema muestra por pantalla los tratamientos del paciente seleccionado.
 
 **Flujos alternativos:**
+
 3.a. Si el sistema detecta algún fallo tras haberle introducido por teclado el DNI del paciente mostrará ERROR por pantalla.
