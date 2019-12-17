@@ -1,6 +1,6 @@
 # Asignar cita
 
-**ID:** 11 **Descripcion:** Se asigna cita a un paciente.
+**ID:** 12 **Descripcion:** Se asigna cita a un paciente.
 
 **Actores principales:** Secretario **Actores secundarios:** Pacientes
 
@@ -10,5 +10,5 @@
 
 **Flujos alternativos:**
 
-2.a Si la cita establecida ya ha sido asignada a otro paciente el sistema mostrará ERROR por pantalla.
+2.a Si el paciente no existe en la base de datos, el sistema mostrará ERROR por pantalla.
 
