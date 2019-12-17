@@ -5,7 +5,7 @@
 
 #### Descripción
 
-Como *secretario* quiero *asignar una cita* para *el paciente*
+Como *secretario* quiero *asignar una cita* para *el paciente*.
 
 #### Validación
 
