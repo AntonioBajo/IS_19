@@ -1,4 +1,4 @@
-**ID**: 11
+**ID**: 12
 **Nombre**: Asignar cita
 
 **Responsable**: Desarrollador
@@ -13,4 +13,4 @@ Como *secretario* quiero *asignar una cita* para *el paciente*
 * Los resultados de la búsqueda pueden mostrar cero o más resultados
 * No es necesario utilizar el nombre completo
 * Se deben mostrar todos los datos del paciente
-* Se deben mostrar los tratamientos posibles sobre el paciente para estimar la duración
+
