@@ -1,6 +1,6 @@
 # Modificar cita del paciente
 
-**ID:** 12 **Descripcion:** Se moifica la cita asignada a un paciente.
+**ID:** 13 **Descripcion:** Se moifica la cita asignada a un paciente.
 
 **Actores principales:** Secretario **Actores secundarios:** Paciente
 
@@ -12,4 +12,4 @@
 
 **Flujos alternativos:**
 
-3.a. Si la cita establecida ya ha sido asignada a otro paciente el sistema mostrará ERROR por pantalla.
+3.a. Si el paciente no está en la base de datos, el sistema mostrará ERROR por pantalla.
