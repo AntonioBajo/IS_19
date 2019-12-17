@@ -4,7 +4,7 @@
 
 #### Descripción
 
-Como *secretario* quiero *localizar un paciente en el sistema* para *visualizar los datos relacionados con el historial médico*.
+Como *secretario* quiero *localizar un paciente en el sistema* para *visualizar los datos relacionados con el historial médico*
 
 #### Validación
 
