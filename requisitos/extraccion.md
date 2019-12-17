@@ -14,13 +14,40 @@
     * Fecha de nacimiento
     * Seguro médico
     
-   - Citas:
-     * Fecha
-     * Hora
+  - Citas:
+    * Nombre
+    * Apellidos
+    * DNI
+    * Teléfono
+    * Dirección
+    * Fecha de nacimiento
+    * Seguro médico     
+    * Fecha
+    * Hora
      
-   - Historial médico
-   - Tratamiento:
-     * En curso
+  - Historial médico:
+    * Nombre
+    * Apellidos
+    * DNI
+    * Teléfono
+    * Dirección
+    * Fecha de nacimiento
+    * Seguro médico
+    * Diagnostico
+    * Medicamento
+    * Fecha
+    * Hora
+    
+  - Tratamiento:
+    * Nombre
+    * Apellidos
+    * DNI
+    * Teléfono
+    * Dirección
+    * Fecha de nacimiento
+    * Seguro médico
+    * Diagnostico
+    * Medicamento   
 
 #### Requisitos funcionales (ordenados por prioridad):
  1. Añadir paciente al sistema
@@ -32,11 +59,12 @@
  7. Mostrar tratamientos del paciente
  8. Modificar tratamiento del paciente en curso
  9. Borrar tratamiento del paciente en curso 
- 10. Mostrar lista de pacientes
- 11. Asignar cita
- 12. Modificar cita
- 13. Anular cita
- 14. Mostrar citas disponibles
+ 10. Asignar tratamiento al paciente
+ 11. Mostrar lista de pacientes
+ 12. Asignar cita
+ 13. Modificar cita
+ 14. Anular cita
+ 15. Mostrar citas de los pacientes
  
  #### Requisitos no funcionales:
 - Sistema operativo Linux
