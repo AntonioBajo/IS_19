@@ -1,4 +1,4 @@
-# Asignar cita
+# Asignar tratamiento al paciente
 
 **ID:** 10 **Descripcion:** Se asigna tratamiento a un paciente.
 
