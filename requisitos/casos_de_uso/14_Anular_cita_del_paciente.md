@@ -1,6 +1,6 @@
 # Anular cita del paciente
 
-**ID:** 13 **Descripcion:** Se anula la cita asignada a un paciente.
+**ID:** 14 **Descripcion:** Se anula la cita asignada a un paciente.
 
 **Actores principales:** Secretario **Actores secundarios:** Paciente
 
