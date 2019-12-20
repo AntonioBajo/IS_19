@@ -14,7 +14,6 @@ Especificación de las clases utilizadas por los desarrolladores en el programa
 | **DATOS** |   |   |
 | Nombre | cadena | *Nombre del paciente* |
 | Apellidos | cadena | *Apellidos del paciente* |
-| Apellidos | cadena | *Apellidos del paciente* |
 | Dni | cadena | *Documento Nacional de Identidad* |
 | Dirección | cadena | *Domicilio del paciente* |
 | Teléfono | número | *Teléfono de contacto con el paciente*|
@@ -35,7 +34,9 @@ Especificación de las clases utilizadas por los desarrolladores en el programa
 | Esta clase contendrá las funciones relacionadas con la gestión de las citas. Entre ellas se encuentran la función de asignar cita, modificar cita...|
 ||
 | **DATOS** |   |   |
-| Paciente | clase | *Datos personales del paciente almacenados por el sistema* |
+| Nombre | cadena | *Nombre del paciente* |
+| Apellidos | cadena | *Apellidos del paciente* |
+| Dni | cadena | *Documento Nacional de Identidad* |
 | Fecha | cadena | *Día asignado para el reconocimiento del paciente* |
 | Hora | número | *Hora asignada para el reconocimiento del paciente*|
 ||
@@ -43,7 +44,7 @@ Especificación de las clases utilizadas por los desarrolladores en el programa
 | Asignar citas | *Función que asigna una cita al paciente en cuestión*|
 | Modificar cita | *Función que modifica la cita asignada al paciente*|
 | Anular cita | *Función que elimina la cita registrada para el paciente*|
-| Mostrar citas disponibles | *Función que muestra por pantalla la agenda disponible para asignar una cita al paciente*|
+| Mostrar cita | *Función que muestra por pantalla la cita asignada*|
 
 ---
 
