@@ -14,6 +14,9 @@ Especificación de las clases utilizadas por los desarrolladores en el programa
 | **DATOS** |   |   |
 | Nombre | cadena | *Nombre del paciente* |
 | Apellidos | cadena | *Apellidos del paciente* |
+| Apellidos | cadena | *Apellidos del paciente* |
+| Dni | cadena | *Documento Nacional de Identidad* |
+| Dirección | cadena | *Domicilio del paciente* |
 | Teléfono | número | *Teléfono de contacto con el paciente*|
 | Fecha de nacimiento | cadena | *Fecha de nacimiento del paciente*|
 | Seguro médico | cadena | *Especificación de si el paciente en cuestión está asegurado*|
