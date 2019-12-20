@@ -53,14 +53,21 @@ Especificación de las clases utilizadas por los desarrolladores en el programa
 | Esta clase contendrá las funciones relacionadas con el tratamiento del paciente. Entre ellas se encuentran la función de mostrar tratamientos, anular tratamiento...|
 ||
 | **DATOS** |   |   |
-| Paciente | clase | *Datos personales del paciente almacenados por el sistema* |
-| Dolencia | cadena | *Diagnóstico del paciente* |
+| Nombre | cadena | *Nombre del paciente* |
+| Apellidos | cadena | *Apellidos del paciente* |
+| Dni | cadena | *Documento Nacional de Identidad* |
+| Dirección | cadena | *Domicilio del paciente* |
+| Teléfono | número | *Teléfono de contacto con el paciente*|
+| Fecha de nacimiento | cadena | *Fecha de nacimiento del paciente*|
+| Seguro médico | cadena | *Especificación de si el paciente en cuestión está asegurado*|
+| Diagnóstico | cadena | *Reconocimiento efectuado por el doctor al paciente*|
 | Medicamento | cadena | *Fármaco asignado para el tratamiento de la dolencia*|
 ||
 | **MÉTODOS** |      
+| Asignar tratamiento del paciente en curso | *Función que asigna al paciente el tratamiento a seguir*|
 | Mostrar tratamientos del paciente | *Función que muestra por pantalla los tratamientos que han sido asignados al paciente en cuestión históricamente*|
 | Modificar tratamiento del paciente en curso | *Función que modifica el tratamiento a seguir del paciente en cuestión*|
-| Borrar tratamiento del paciente en curso | *Función que elimina el tratamiento a seguir por el paciente en cuestión*|
+| Anular tratamiento del paciente en curso | *Función que elimina el tratamiento a seguir por el paciente en cuestión*|
 
 ---
 
@@ -69,9 +76,17 @@ Especificación de las clases utilizadas por los desarrolladores en el programa
 | Esta clase contendrá las funciones relacionadas con el historial del paciente. Entre ellas se encuentran la función de mostrar el historial médico del paciente y la función de añadir una entrada al historial médico del paciente|
 ||
 | **DATOS** |   |   |
-| Paciente | clase | *Datos personales del paciente almacenados por el sistema* |
-| Citas | clase | *Fechas en las que el paciente ha acudido a consulta* |
-| Tratamientos | clase | *Tratamientos que han sido asignados al paciente*|
+| Nombre | cadena | *Nombre del paciente* |
+| Apellidos | cadena | *Apellidos del paciente* |
+| Dni | cadena | *Documento Nacional de Identidad* |
+| Dirección | cadena | *Domicilio del paciente* |
+| Teléfono | número | *Teléfono de contacto con el paciente*|
+| Fecha de nacimiento | cadena | *Fecha de nacimiento del paciente*|
+| Seguro médico | cadena | *Especificación de si el paciente en cuestión está asegurado*|
+| Fecha | cadena | *Día asignado para el reconocimiento del paciente* |
+| Hora | número | *Hora asignada para el reconocimiento del paciente*|
+| Diagnóstico | cadena | *Reconocimiento efectuado por el doctor al paciente*|
+| Medicamento | cadena | *Fármaco asignado para el tratamiento de la dolencia*|
 ||
 | **MÉTODOS** |      
 | Mostrar historial médico del paciente | *Función que muestra por pantalla el historial del paciente*|
