@@ -4,7 +4,7 @@
 **Actores principales:** Secretario **Actores secundarios:** Paciente
 
 **Flujo principal:**
-1. El secretario desea ver el historial médico del paciente.
+1. El secretario desea ver las citas del paciente.
 2. El secretario abre el cuadro de diálogo de visualizacion de citas.
 3. El sistema muestra por pantalla las citas de los paciente.
 
