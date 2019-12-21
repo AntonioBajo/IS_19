@@ -44,7 +44,7 @@ Especificación de las clases utilizadas por los desarrolladores en el programa
 | Asignar citas | *Función que asigna una cita al paciente en cuestión*|
 | Modificar cita | *Función que modifica la cita asignada al paciente*|
 | Anular cita | *Función que elimina la cita registrada para el paciente*|
-| Mostrar cita | *Función que muestra por pantalla la cita asignada*|
+| Mostrar citas del paciente | *Función que muestra por pantalla la cita asignada*|
 
 ---
 
