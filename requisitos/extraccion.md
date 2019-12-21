@@ -64,7 +64,7 @@
  12. Asignar cita
  13. Modificar cita
  14. Anular cita
- 15. Mostrar citas del paciente seleccionado
+ 15. Mostrar citas del paciente 
  
  #### Requisitos no funcionales:
 - Sistema operativo Linux
