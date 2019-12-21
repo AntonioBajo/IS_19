@@ -20,19 +20,19 @@ int main(){
   Tratamientos trat;
   Historial hist;
   while (true){
-    cout << "[1] Añadir paciente"<<endl;
-    cout << "[2] Editar paciente"<<endl;
+    cout << "[1] Añadir paciente al sistema"<<endl;
+    cout << "[2] Editar datos personales del paciente"<<endl;
     cout << "[3] Consultar paciente"<<endl;
     cout << "[4] Borrar paciente"<<endl;
-    cout << "[5] Mostrar pacientes"<<endl;
-    cout << "[6] Asignar cita"<<endl;
+    cout << "[5] Mostrar lista de pacientes"<<endl;
+    cout << "[6] Asignar citas"<<endl;
     cout << "[7] Modificar cita"<<endl;
     cout << "[8] Anular cita"<<endl;
-    cout << "]9] Mostrar citas"<<endl;
-    cout << "[10] Asignar tratamiento"<<endl;
-    cout << "[11] Modificar tratamiento"<<endl;
-    cout << "[12] Borrar tratamiento"<<endl;
-    cout << "[13] Mostrar tratamientos"<<endl;
+    cout << "]9] Mostrar cita"<<endl;
+    cout << "[10] Asignar tratamiento del paciente en curso"<<endl;
+    cout << "[11] Modificar tratamiento del paciente en curso"<<endl;
+    cout << "[12] Anular tratamiento del paciente en curso"<<endl;
+    cout << "[13] Mostrar tratamientos del paciente"<<endl;
     cout << "[14] Añadir historial del paciente"<<endl;
     cout << "[15] Mostrar historial del paciente"<<endl;
     cout << "[16] Salir"<<endl;
