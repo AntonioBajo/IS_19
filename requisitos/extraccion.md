@@ -72,4 +72,4 @@
 - Lenguaje de implementación: C++
 - Máximo 10 GB de almacenamiento
 - Evitar que se borre un historial médico
-- Confirmar antes del borrado
+
