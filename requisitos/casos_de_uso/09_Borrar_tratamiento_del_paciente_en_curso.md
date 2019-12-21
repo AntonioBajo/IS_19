@@ -1,5 +1,5 @@
 ## Borrar tratamiento del paciente en curso
-**ID:** 09 **Descripción:** Se introduce el DNI del paciente del que se quiera borrar el tratamiento.
+**ID:** 09 **Descripción:** Se introduce el DNI del paciente del que se quiera borrar el tratamiento y el sistema lo elimina.
 
 **Actores principales:** Secretario **Actores secundarios:** Paciente
 
