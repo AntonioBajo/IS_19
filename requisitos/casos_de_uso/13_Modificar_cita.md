@@ -1,6 +1,6 @@
 # Modificar cita del paciente
 
-**ID:** 13 **Descripcion:** Se moifica la cita asignada a un paciente.
+**ID:** 13 **Descripcion:** Se modifica la cita asignada a un paciente.
 
 **Actores principales:** Secretario **Actores secundarios:** Paciente
 
