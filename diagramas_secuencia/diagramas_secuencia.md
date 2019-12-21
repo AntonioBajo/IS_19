@@ -1,1 +1,1 @@
-![01_Añadir_paciente_al_sistema.png]
+![01_Añadir_paciente_al_sistema.png](IS_19/diagramas_secuencia)
